@@ -4,7 +4,13 @@ A simple utility to recursively find and remove all `.pytest_cache` folders.
 
 ## Installation
 
-This project uses `uv`. If you don't have `uv` installed, you can find the installation instructions [here](https://github.com/astral-sh/uv#installation). TL;DR `pipx install uv`.
+This project uses `uv`. If you don't have `uv` installed, you can find the installation instructions [here](https://github.com/astral-sh/uv#installation).
+
+### TL;DR
+
+```
+pipx install uv .
+```
 
 Once `uv` is installed, you can install the dependencies and the tool by running:
 
