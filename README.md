@@ -17,7 +17,7 @@ Once `uv` is installed, you can install the dependencies and the tool by running
 ```bash
 cd path/to/pytestcachecleaner
 uv sync
-uv tool install -e .
+uv tool install .
 ```
 
 Alternatively, you can use `pip`:
